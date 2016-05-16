@@ -390,10 +390,10 @@ module hex_decoder(hex_digit, segments);
 endmodule
 
 ///////////////////////////////////////////////////////////////////
-/// 																				 ///
-///		ALL MODULES BEYOND THIS POINT ARE FROM:                ///
+/// 								///												 ///
+///		ALL MODULES BEYOND THIS POINT ARE FROM:         ///
 ///   https://www.dropbox.com/s/b2gkbqohw0zeflw/fff.zip?dl=0    ///
-///																				 ///
+///								///												 ///
 ///////////////////////////////////////////////////////////////////
 
 module keyboardController(CLOCK_50,	PS2_DAT, PS2_CLK, keyValue);
