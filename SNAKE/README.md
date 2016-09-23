@@ -1,6 +1,6 @@
 Snake game written in Verilog HDL.
 
-Use arrow keys on a PS2 keyboard to control the snake. 
+Use arrow keys on a PS2 keyboard connected to the DE1-SOC board to control the snake. 
 
 The game is displayed on the VGA monitor that is connected to the DE1-SOC board.
 
